@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kickb71
+- 👋 Hi, I’m @gautam71
 - 👀 I’m interested in data science
 - 💞️ I’m looking to collaborate on datasets
 - 📫 How to reach me serpants071@gmail.com
